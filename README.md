@@ -3,7 +3,7 @@ Welcome to my Machine Learning portfolio! This repository showcases various proj
 
 ### Regression
 - **Concrete compressive Strength Prediction**  
-  **Regression.ipynb** contains prediction of compressive strength of concrete using multiple regression models (Polynomial regression, ElasticNet, Random forest regression, Boosted trees like gradient boosting regressor and adaboost regressor). Compressive strength is the property of a material to withstand loads without deformation. This project includes GridSearchCV for hyperparameter tuning.
+  **Regression.ipynb** contains prediction of compressive strength of concrete using multiple regression models (Polynomial regression, ElasticNet, Random forest regression, Boosted trees like gradient boosting regressor and adaboost regressor). Compressive strength is the property of a material to withstand loads without deformation. This project includes GridSearchCV for hyperparameter tuning and pipelines.
 
 ### Classification
 - **Email Spam Detection (NLP)**  
