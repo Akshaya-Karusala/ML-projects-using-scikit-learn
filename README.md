@@ -1,5 +1,5 @@
-# Machine Learning Portfolio Projects
-Welcome to my Machine Learning portfolio! This repository showcases various projects using **supervised learning** such as **regression, classification with natural language processing (NLP)**, **unsupervised learning** such as **clustering** and built using real-world datasets. Each project includes a Jupyter Notebook with clean, reproducible code and explanations.
+# Machine Learning Projects
+This repository showcases various projects using **supervised learning** such as **regression, classification with natural language processing (NLP)**, **unsupervised learning** such as **clustering** and built using real-world datasets. Each project includes a Jupyter Notebook with clean, reproducible code and explanations.
 
 ### Regression
 - **Concrete compressive Strength Prediction**  
